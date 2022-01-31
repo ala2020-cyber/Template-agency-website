@@ -1,0 +1,13 @@
+small screens>  min-width:768px    width:750px
+meduim screens> min-width:992px    width:970px
+large screens> min-width:1200px    width:1170px
+
+
+>every parent should have a nested container
+
+>every heading should be normalized to margin:0;
+
+>to make something appear on the top , you need to change the position which 
+is by default static to relative,absolute,fixed et sticky to make z-index propritie work 
+
+>si tu fait une image on ne peut pas faire before & after
